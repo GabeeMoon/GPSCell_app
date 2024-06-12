@@ -20,6 +20,7 @@ import androidx.biometric.BiometricPrompt
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.FragmentActivity
 import androidx.preference.PreferenceManager
+import org.traccar.manager.R
 
 object SecurityManager {
 
